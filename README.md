@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=200&section=header&text=JD202730&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Futuro%20Ing.%20de%20Inteligencia%20Artificial&descAlignY=58&descSize=20" alt="Encabezado del perfil" />
 
 <a href="https://github.com/JD202730">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=640&lines=Futuro+Ing.+de+Inteligencia+Artificial+%F0%9F%A4%96;Aprendiendo+estructuras+de+datos+y+algoritmos;Construyo+herramientas+para+aprender+y+para+crear" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=640&lines=Futuro+Ing.+de+Inteligencia+Artificial+%F0%9F%A4%96;Construyo+herramientas+para+aprender+y+para+crear" alt="Texto animado" />
 </a>
 
 </div>
