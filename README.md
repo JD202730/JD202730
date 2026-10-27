@@ -11,9 +11,7 @@
 ## 👋 Sobre mí
 
 - 🎓 Estudiante de Ingeniería en Inteligencia Artificial: me estoy formando para ser **Ing. de IA**.
-- 🔭 Ahora estoy estudiando **estructuras de datos y algoritmos** (recursión, complejidad, árboles BST y AVL).
 - 🛠️ Me gusta construir herramientas propias para aprender: una app para estudiar, scripts de automatización y proyectos de electrónica.
-- 🌱 Quiero llegar a crear sistemas de IA que resuelvan problemas reales.
 
 ## 🛠️ Herramientas
 
